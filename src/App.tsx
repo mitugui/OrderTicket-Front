@@ -1,11 +1,9 @@
-import './App.css';
+import RoutesApp from "./routes/RoutesApp";
 
 function App() {
   return (
-    <div className="App">
-      
-    </div>
+    <RoutesApp />
   );
-}
+};
 
 export default App;
